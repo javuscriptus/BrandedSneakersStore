@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BrandedSneakersStore/static/css/main.408e8fa6.chunk.css",
+    "main.js": "/BrandedSneakersStore/static/js/main.9e044f95.chunk.js",
+    "main.js.map": "/BrandedSneakersStore/static/js/main.9e044f95.chunk.js.map",
+    "runtime-main.js": "/BrandedSneakersStore/static/js/runtime-main.893045d0.js",
+    "runtime-main.js.map": "/BrandedSneakersStore/static/js/runtime-main.893045d0.js.map",
+    "static/css/2.1cdcfe91.chunk.css": "/BrandedSneakersStore/static/css/2.1cdcfe91.chunk.css",
+    "static/js/2.c8e81239.chunk.js": "/BrandedSneakersStore/static/js/2.c8e81239.chunk.js",
+    "static/js/2.c8e81239.chunk.js.map": "/BrandedSneakersStore/static/js/2.c8e81239.chunk.js.map",
+    "index.html": "/BrandedSneakersStore/index.html",
+    "static/css/2.1cdcfe91.chunk.css.map": "/BrandedSneakersStore/static/css/2.1cdcfe91.chunk.css.map",
+    "static/css/main.408e8fa6.chunk.css.map": "/BrandedSneakersStore/static/css/main.408e8fa6.chunk.css.map",
+    "static/js/2.c8e81239.chunk.js.LICENSE.txt": "/BrandedSneakersStore/static/js/2.c8e81239.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.893045d0.js",
+    "static/css/2.1cdcfe91.chunk.css",
+    "static/js/2.c8e81239.chunk.js",
+    "static/css/main.408e8fa6.chunk.css",
+    "static/js/main.9e044f95.chunk.js"
+  ]
+}
