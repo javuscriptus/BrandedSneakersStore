@@ -1,5 +1,3 @@
-
-
 function Card({img, name, price}) {
     return (
         <div className="card">
