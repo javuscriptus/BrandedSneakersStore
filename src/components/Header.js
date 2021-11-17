@@ -2,7 +2,7 @@ function Header({name, description, price}) {
     return (
         <header className="d-flex justify-between p-40">
             <div className="d-flex align-center">
-                <img width={40} height={40} src="/img/logo.png" alt="Logo" />
+                <img width={40} height={40} src="./img/logo.png" alt="Logo" />
                 <div>
                     <h3 className="text-uppercase">{name}</h3>
                     <p className="opacity-5">{description}</p>
