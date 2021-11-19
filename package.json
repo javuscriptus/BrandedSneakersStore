@@ -1,5 +1,5 @@
 {
-  "homepage": "http://javuscriptus.github.io/BrandedSneakersStore",
+  "закомментировано!!! расскоментируй чтобы опубликовать в github pages": "'homepage': 'http://javuscriptus.github.io/BrandedSneakersStore'",
   "name": "shop-sneakers",
   "version": "0.1.0",
   "private": true,
@@ -7,6 +7,7 @@
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.24.0",
     "macro-css": "^1.0.5",
     "node-sass": "^6.0.1",
     "react": "^17.0.2",
